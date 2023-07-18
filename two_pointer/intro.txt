@@ -1,0 +1,10 @@
+Two Pointers
+
+Very useful when dealing with sorted arrays (or linkedLists)
+and need to find a set of elements that fulfill certain constraints
+could be a pair, triplet or even a subarray
+
+Example problem
+Given an array of sorted numbers and a target sum,
+find a pair in the array whose sum is equal to target
+
